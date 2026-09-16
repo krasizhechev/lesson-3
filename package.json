@@ -1,6 +1,7 @@
 {
   "name": "lesson-3",
   "version": "0.1.0",
+  "home": ".",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
